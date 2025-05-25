@@ -39,6 +39,7 @@ It should be available via `localhost:3000`.
    1. [WavRecorder quickstart](#wavrecorder-quickstart)
    1. [WavStreamPlayer quickstart](#wavstreamplayer-quickstart)
 1. [Acknowledgements and contact](#acknowledgements-and-contact)
+1. [Contributors](#contributors)
 
 # Using the console
 
@@ -370,3 +371,10 @@ You can also reach out and let us know what you think directly!
 - Katia Gil Guzman / DX / [@kagigz](https://x.com/kagigz)
 - Ilan Bigio / DX / [@ilanbigio](https://x.com/ilanbigio)
 - Kevin Whinnery / DX / [@kevinwhinnery](https://x.com/kevinwhinnery)
+
+# Contributors
+
+Thank you to all the contributors who have helped improve this project:
+
+- Iamamb (May 25, 2025)
+- 그루비독 (May 25, 2025)
