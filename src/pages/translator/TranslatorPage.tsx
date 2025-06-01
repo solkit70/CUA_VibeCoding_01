@@ -17,7 +17,7 @@ import { ItemType } from '@openai/realtime-api-beta/dist/lib/client.js';
 import { WavRecorder, WavStreamPlayer } from '../../lib/wavtools/index.js';
 import { instructions } from '../../utils/conversation_config.js';
 import { WavRenderer } from '../../utils/wav_renderer';
-import { X, Edit, Zap, ArrowUp, ArrowDown, Menu } from 'react-feather';
+import { X, Edit, Zap, ArrowUp, ArrowDown, Menu, Home } from 'react-feather';
 import { Button } from '../../components/button/Button';
 import { Toggle } from '../../components/toggle/Toggle';
 import { Select } from '../../components/select/Select';
@@ -469,6 +469,12 @@ y   * - realtimeEvents are event logs, which can be expanded
     <div data-component="ConsolePage">
       <div className="content-top">
         <div className="content-title">
+          <Button
+            icon={Home}
+            buttonStyle="flush"
+            onClick={() => window.location.href = '/'}
+            label="home"
+          />
           <img src="/openai-logomark.svg" />
           <span>translation dictation</span>
         </div>

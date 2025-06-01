@@ -378,3 +378,4 @@ Thank you to all the contributors who have helped improve this project:
 
 - Iamamb (May 25, 2025)
 - 그루비독 (May 25, 2025)
+- Patrick Seo (June 1, 2025)
